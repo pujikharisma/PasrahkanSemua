@@ -1,1 +1,4 @@
+
 ini adalah isi pesan untuk cabang1, please read
+
+ini adalah file pesan di dalam branch cabang2, pesan ini hanya untuk ditulis
